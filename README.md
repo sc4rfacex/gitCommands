@@ -10,3 +10,5 @@
 8. git checkout -b rama-heroes -> comando para crear una rama llamada rama-heroes
 9. git checkout master   -> cambiar de rama a la master
 10. git branch -d rama-heroes -> eliminar rama
+11. git push
+12. git commit -am
